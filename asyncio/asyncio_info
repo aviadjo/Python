@@ -1,0 +1,20 @@
+"AsyncIO, Threading, and Multiprocessing in Python | by Ajit Samudrala | Analytics Vidhya | Medium"
+https://medium.com/analytics-vidhya/asyncio-threading-and-multiprocessing-in-python-4f5ff6ca75e8
+
+"python - Is there a way to take advantage of multiple CPU cores with asyncio? - Stack Overflow"
+https://stackoverflow.com/questions/66077177/is-there-a-way-to-take-advantage-of-multiple-cpu-cores-with-asyncio
+
+https://realpython.com/python-concurrency/
+
+Read multiple CSV files in parallel isyncio
+https://stackoverflow.com/questions/52161904/reading-files-in-parallel-and-parameterize-class-parameters
+
+python asyncio loop run_until_complete
+https://stackoverflow.com/questions/32456881/getting-values-from-functions-that-run-as-asyncio-tasks
+
+Asyncio.gather vs asyncio.wait
+https://stackoverflow.com/questions/42231161/asyncio-gather-vs-asyncio-wait
+
+Asyncio example
+https://docs.python.org/3/library/asyncio-task.html
+https://coderzcolumn.com/tutorials/python/asyncio-concurrent-programming-using-async-await-syntax-in-python
